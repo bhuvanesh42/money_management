@@ -82,7 +82,7 @@ class _SplashScreenState extends State<SplashScreen>
                 child: Image.asset('assets/images/expenses.jpg'),
               ),
               SizedBox(
-                height: contraints.maxHeight * 0.11,
+                height: contraints.maxHeight * 0.10,
               ),
               Container(
                 width: contraints.maxHeight * 0.10,
